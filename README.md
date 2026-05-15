@@ -1,4 +1,4 @@
-# Portfolio — Jane Doe
+# Portfolio — Rosemary Fasullo
 
 A personal portfolio site built with **Next.js 15**, **Tailwind CSS v4**, and **TypeScript**, deployed to **Vercel**.
 
@@ -58,7 +58,7 @@ Each project is an object in the `projects` array at the top of the file:
   number: "01",
   title: "Your Project Name",
   tags: ["Next.js", "OpenAI API"],
-  description: "What it does and why it matters.",
+  description: "What it Fasullos and why it matters.",
   highlights: [
     "Key metric or design decision #1",
     "Key metric or design decision #2",

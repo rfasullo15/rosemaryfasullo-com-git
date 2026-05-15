@@ -20,9 +20,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Jane Doe — Applied AI Developer",
+  title: "Rosemary Fasullo — Applied AI Developer",
   description:
-    "Portfolio of Jane Doe: AI systems, physics-informed reasoning, and production-grade web development.",
+    "Portfolio of Rosemary Fasullo: AI systems, science-based reasoning, and production-grade web development.",
 };
 
 export default function RootLayout({ children }) {
