@@ -42,7 +42,7 @@ export default function Contact() {
           }}
         >
           Let&apos;s build something{" "}
-          <span style={{ color: "var(--color-amber)" }}>worth building.</span>
+          <span style={{ color: "var(--color-amber)" }}>worth making.</span>
         </h2>
 
         <p
@@ -60,7 +60,7 @@ export default function Contact() {
         </p>
 
         <a
-          href="mailto:jane@example.com"
+          href="mailto:rfasullo@gmail.com"
           style={{
             fontFamily: "var(--font-body)",
             fontSize: "0.9rem",
@@ -95,8 +95,8 @@ export default function Contact() {
           }}
         >
           {[
-            { label: "GitHub", href: "https://github.com/janedoe" },
-            { label: "LinkedIn", href: "https://linkedin.com/in/janedoe" },
+            { label: "GitHub", href: "https://github.com/rfasullo15" },
+            { label: "LinkedIn", href: "https://linkedin.com/in/rosie-fasullo" },
           ].map((link) => (
             <a
               key={link.label}

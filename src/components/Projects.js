@@ -12,7 +12,7 @@ const projects = [
       "Automated scoring pipeline with rubric-based grading",
       "Identified 3 consistent reasoning failure modes in tested models",
     ],
-    link: "https://github.com/janedoe/physics-eval",
+    link: "https://github.com/RosemaryFasullo/physics-eval",
     demo: null,
     featured: true,
   },
@@ -27,7 +27,7 @@ const projects = [
       "Chunk relevance scoring surfaced to the user",
       "Deployed to Vercel with edge functions for low latency",
     ],
-    link: "https://github.com/janedoe/doc-qa-agent",
+    link: "https://github.com/RosemaryFasullo/doc-qa-agent",
     demo: "https://doc-qa.vercel.app",
     featured: true,
   },
@@ -42,7 +42,7 @@ const projects = [
       "Structured decision log for every agent action",
       "Handles partial failures with fallback routing",
     ],
-    link: "https://github.com/janedoe/agentic-workflow",
+    link: "https://github.com/RosemaryFasullo/agentic-workflow",
     demo: null,
     featured: false,
   },
@@ -101,7 +101,7 @@ export default function Projects() {
           }}
         >
           Selected work — built,{" "}
-          <span style={{ color: "var(--color-amber)" }}>shipped,</span> and
+          <span style={{ color: "var(--color-amber)" }}>tested,</span> and
           documented.
         </h2>
 

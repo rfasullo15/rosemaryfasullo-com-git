@@ -18,7 +18,7 @@ export default function Footer() {
           color: "var(--color-muted)",
         }}
       >
-        © {new Date().getFullYear()} Jane Doe
+        © {new Date().getFullYear()} Rosemary Fasullo
       </span>
       <span
         style={{

@@ -72,9 +72,9 @@ export default function Hero() {
             marginBottom: "1.5rem",
           }}
         >
-          Jane
+          Rosemary
           <br />
-          <span style={{ color: "var(--color-amber)" }}>Doe</span>
+          <span style={{ color: "var(--color-amber)" }}>Fasullo</span>
           <span style={{ color: "var(--color-muted)" }}>.</span>
         </h1>
 

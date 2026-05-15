@@ -1,12 +1,21 @@
 const experiences = [
   {
-    period: "2023 – Present",
+    period: "2026 – Present",
     role: "AI Model Evaluator",
     company: "Mercor",
     type: "Part-time / Contract",
     description:
       "Develop and assess physics-based prompts to evaluate reasoning quality in frontier language models. Work includes constructing adversarial test cases, scoring chain-of-thought responses against rubrics, and identifying systematic failure modes — contributing directly to RLHF data pipelines.",
     skills: ["Prompt Engineering", "Model Evaluation", "Physics Reasoning", "RLHF"],
+  },
+  {
+    period: "2025 - Present",
+    role: "Small Business Owner",
+    company: "Rosie Bakes",
+    type: "Self Employed",
+    description:
+      "Founded and currently operate a cottage bakery serving the Texoma area. Leveraged AI agents to accelerate business devlopment — from branding and menu development to building an online presence and automating bookkeeping and sales analytics. Manages all aspects of operations including production, pricing, order fulfillment, and marketing.",
+    skills: ["Prompt Engineering", "AI Automation", "Google Workspace"],
   },
   {
     period: "2022 – 2024",

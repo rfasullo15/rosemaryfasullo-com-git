@@ -50,6 +50,7 @@ export default function About() {
               marginBottom: "1.5rem",
             }}
           >
+  
             Rigorous by training.
             <br />
             <span style={{ color: "var(--color-amber)" }}>Builder</span> by instinct.
@@ -65,7 +66,7 @@ export default function About() {
           >
             I hold a double major in Computer Science and Physics and a Master's
             degree in Physics — a background that trained me to model complex
-            systems, reason carefully about tradeoffs, and stay skeptical of
+            systems, reason through challenges, and stay skeptical of
             easy answers.
           </p>
           <p
@@ -77,7 +78,7 @@ export default function About() {
               marginBottom: "1.25rem",
             }}
           >
-            Today I build AI-powered applications: agentic systems, LLM
+            Today I research and train AI-powered applications: agentic systems, LLM
             integrations, and automation pipelines that solve real problems.
             My current work includes AI model evaluation at Mercor, where I
             write and assess physics-grounded prompts to improve reasoning
@@ -91,8 +92,8 @@ export default function About() {
               color: "var(--color-muted)",
             }}
           >
-            I'm drawn to roles where AI is a force multiplier — not a
-            buzzword — and where careful engineering decisions compound over time.
+            I'm drawn to roles where innovation is a driving force, not a
+            buzzword, and where change is embraced as a catalyst.
           </p>
         </div>
 
